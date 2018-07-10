@@ -1,0 +1,30 @@
+{
+  "name": "bring-sally-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "bin": {
+    "bring": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaykoKoryun/bring-sally-up.git"
+  },
+  "author": "HaykoKoryun <haykokoryun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaykoKoryun/bring-sally-up/issues"
+  },
+  "homepage": "https://github.com/HaykoKoryun/bring-sally-up#readme",
+  "preferGlobal": true,
+  "dependencies": {
+    "av": "^0.4.9",
+    "ogg.js": "^0.1.0",
+    "rsvp": "^4.8.2",
+    "vorbis.js": "^0.1.1",
+    "yargs": "^12.0.1"
+  }
+}
