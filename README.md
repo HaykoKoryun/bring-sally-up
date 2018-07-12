@@ -18,6 +18,8 @@ sudo apt-get install alsa-base alsa-utils
 sudo apt-get install libasound2-dev
 ```
 
+If you run into any issues installing this package, like `EACCESS` errros, consider folling the steps in this page: https://docs.npmjs.com/getting-started/fixing-npm-permissions
+
 #### Windows
 Who knows?
 
